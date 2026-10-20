@@ -74,7 +74,7 @@ h1{
 .terms{
     display: flex;
     gap: 8px;
-    margin: 20px;
+    margin: 20px 0;
     color: #64748b;
     font-size: 12px;
 
